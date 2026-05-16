@@ -1,0 +1,1 @@
+package com.lebzlon.measurementtracker.entity; public enum ReadingSource {MANUAL,OCR}

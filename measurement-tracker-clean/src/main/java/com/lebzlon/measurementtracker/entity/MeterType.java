@@ -1,0 +1,1 @@
+package com.lebzlon.measurementtracker.entity; public enum MeterType {COLD_WATER,HOT_WATER,GAS}
